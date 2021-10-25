@@ -1,0 +1,1 @@
+# ret-ngulo-rea-per-metro-e-diagonal
