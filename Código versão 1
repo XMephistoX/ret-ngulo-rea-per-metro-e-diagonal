@@ -1,0 +1,22 @@
+using System;
+
+class Program 
+  {
+public double altura;
+public double largura;
+  
+  class void DadosTriangulo ()
+  {
+    Console.WriteLine ("digite a altura do retângulo");
+    altura = double.Parse(Console. ReadLine());
+    Console.WriteLine ("digite a largura do retângulo");
+    largura = double.Parse(Console. ReadLine());
+      Console.WriteLine ("a largura do retângulo é "+largura);
+  }
+
+  public static void Main (string[] args) 
+  {
+    t = new DadosTriangulo ();
+    
+  }
+}
